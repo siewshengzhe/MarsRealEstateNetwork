@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.navigation:navigation-runtime:1.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0.aar/6ab15df8b42b2b963d13de5d89d65fd7/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0.aar/6ab15df8b42b2b963d13de5d89d65fd7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0.aar/09b9e8fb2f8ea20d2e5f75be4ed7a7e8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0.aar/09b9e8fb2f8ea20d2e5f75be4ed7a7e8/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
